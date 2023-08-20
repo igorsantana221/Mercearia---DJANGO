@@ -1,0 +1,2 @@
+carro|10|Brinquedo|100
+bola|17|Brinquedo|7
